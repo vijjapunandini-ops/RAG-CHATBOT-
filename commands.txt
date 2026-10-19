@@ -1,0 +1,18 @@
+ollama pull llama3.2:3b
+requirements.txt
+        ↓
+pip install -r requirements.txt
+        ↓
+Python dependencies installed
+
+Ollama
+        ↓
+ollama pull llama3.2:3b
+        ↓
+Local LLM available
+
+Streamlit
+        ↓
+app.py
+        ↓
+FAISS + LangChain + Ollama

@@ -1,0 +1,12 @@
+streamlit
+pypdf
+python-docx
+pandas
+openpyxl
+python-pptx
+sentence-transformers
+faiss-cpu
+langchain
+langchain-text-splitters
+langchain-ollama
+python-dotenv
